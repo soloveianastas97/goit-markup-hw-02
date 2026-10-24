@@ -12,9 +12,9 @@
 .team-list {
 }
 .team-item {
+  background-color: #fff;
 }
 .team-image {
-  background-color: #fff;
 }
 .team-name {
   font-weight: 500;
